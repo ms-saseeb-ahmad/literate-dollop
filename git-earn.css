@@ -1,0 +1,16 @@
+.div{
+  margin: 200px;
+  background-color: red;
+  color: yellow;
+}
+p{
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+button{
+  padding: 10px;
+  text-align: center;
+  color: red;
+  background-color: blue;
+}
